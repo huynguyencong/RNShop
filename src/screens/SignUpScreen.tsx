@@ -1,3 +1,4 @@
+import React from 'react';
 import { Text, View, Button } from "react-native"
 
 const SignUpScreen = (props: any) => {

@@ -1,3 +1,4 @@
+import React from 'react';
 import AppNavigator from './AppNavigator';
 import { AuthProvider } from './src/context/AuthContext';
 
